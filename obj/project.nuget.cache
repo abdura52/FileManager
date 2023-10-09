@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vtSiwO4WBPt/w+0XNcIs/eS63FhI42kzEogKOkl6JPSCbZQb59W4yDbCPlYU/kbcH+osf3SpsPAXeUmrWp1Byw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdura\\Desktop\\FileManager\\FileManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdura\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\abdura\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
